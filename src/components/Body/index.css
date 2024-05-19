@@ -1,0 +1,46 @@
+.heading1 {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #64748b;
+}
+.body-container {
+  display: flex;
+  flex-direction: row;
+}
+.sub-container1 {
+  background-color: #e2e8f0;
+  margin: 0px;
+  padding-left: 20px;
+  padding: 20px;
+  margin-right: 3px;
+}
+.sub-container3 {
+  background-color: #e2e8f0;
+  margin: 0px;
+  padding-left: 20px;
+  padding: 20px;
+  margin-left: 3px;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #64748b;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5px;
+}
+.sub-container2 {
+  background-color: #f1f5f9;
+  padding: 20px;
+}
+.hideContext{
+  display: none;
+}
+.hideLeftNav{
+  display: none;
+}
+.hideRightNav{
+  display: none;
+}

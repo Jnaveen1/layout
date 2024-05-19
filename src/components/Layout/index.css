@@ -1,0 +1,9 @@
+.layout-container2 {
+  padding: 20px;
+  margin: 10px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 70vh;
+}

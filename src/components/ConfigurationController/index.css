@@ -1,0 +1,21 @@
+.layout-container1 {
+  background-color: #475569;
+  width: 100%;
+  color: white;
+  padding: 10px;
+  padding-left: 30px;
+}
+
+.label {
+  margin-left: 5px;
+}
+
+.checkbox-container {
+  margin-bottom: 7px;
+  display: flex;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+}
