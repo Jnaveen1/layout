@@ -45,7 +45,7 @@ const ConfigurationController = () => (
             defaultChecked={showLeftNavbar}
             onChange={toggleShowLeftNavbar}
           />
-          <label htmlFor="content" className="label">
+          <label htmlFor="LeftNavbar" className="label">
             Left Navbar
           </label>
         </div>
@@ -56,11 +56,11 @@ const ConfigurationController = () => (
           <input
             type="checkbox"
             name="LeftNavbar"
-            id="LeftNavbar"
+            id="RightNavbar"
             defaultChecked={showRightNavbar}
             onChange={toggleShowRightNavbar}
           />
-          <label htmlFor="content" className="label">
+          <label htmlFor="RightNavbar" className="label">
             Right Navbar
           </label>
         </div>
